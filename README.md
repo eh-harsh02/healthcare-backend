@@ -126,3 +126,4 @@ healthcare-backend/
 ## 📬 Contact
 
 For any queries or suggestions, feel free to reach out:
+📧 [harshraj0381@gmail.com](mailto:harshraj0381@gmail.com)

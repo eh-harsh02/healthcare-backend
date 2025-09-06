@@ -36,22 +36,22 @@ This project is a **Healthcare Backend System** built with **Django**, **Django 
 ## Folder Structure
 healthcare-backend/
 │
-├── backend/             # Django project configuration
-│   ├── settings.py      # Project settings
-│   ├── urls.py          # Project URLs
-│   └── wsgi.py
+├── backend/ # Django project configuration
+│ ├── settings.py # Project settings
+│ ├── urls.py # Project URLs
+│ └── wsgi.py
 │
-├── healthcare/          # Django app
-│   ├── models.py        # Database models
-│   ├── views.py         # ViewSets for CRUD
-│   ├── views_auth.py    # JWT authentication views
-│   ├── serializers.py   # Serializers for models
-│   └── urls.py          # App URLs
+├── healthcare/ # Django app
+│ ├── models.py # Database models
+│ ├── views.py # ViewSets for CRUD
+│ ├── views_auth.py # JWT authentication views
+│ ├── serializers.py # Serializers for models
+│ └── urls.py # App URLs
 │
-├── venv/                # Virtual environment
+├── venv/ # Virtual environment
 ├── manage.py
 ├── requirements.txt
-└── .env                 # Environment variables
+└── .env # Environment variables
 
 ---
 

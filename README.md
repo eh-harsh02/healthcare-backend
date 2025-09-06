@@ -5,7 +5,7 @@ This project is a **Healthcare Backend System** built with **Django**, **Django 
 
 ---
 
-## Features
+## 🌟 Features
 - **User Authentication**
   - Register new users.
   - Login and receive JWT tokens (access & refresh tokens).
@@ -23,7 +23,7 @@ This project is a **Healthcare Backend System** built with **Django**, **Django 
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 - **Backend:** Django 5.2.6
 - **REST API:** Django REST Framework
 - **Authentication:** djangorestframework-simplejwt (JWT)
@@ -33,7 +33,7 @@ This project is a **Healthcare Backend System** built with **Django**, **Django 
 
 ---
 
-## Folder Structure
+## 📁 Project Structure
 
 ```
 healthcare-backend/

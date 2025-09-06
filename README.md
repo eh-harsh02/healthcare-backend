@@ -97,3 +97,32 @@ healthcare-backend/
 
 > **Note:** All endpoints except register and login require JWT token in the header:  
 > `Authorization: Bearer <access_token>`
+
+## Installation
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/eh-harsh02/healthcare-backend.git
+
+   ```
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/Scripts/activate   # Windows
+   source venv/bin/activate       # macOS/Linux
+
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+   ```
+4. Run the development server:
+   ```bash
+   python manage.py runserver
+
+   ```
+
+## 📬 Contact
+
+For any queries or suggestions, feel free to reach out:

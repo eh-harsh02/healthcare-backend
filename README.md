@@ -34,6 +34,8 @@ This project is a **Healthcare Backend System** built with **Django**, **Django 
 ---
 
 ## Folder Structure
+
+```
 healthcare-backend/
 │
 ├── backend/ # Django project configuration
@@ -52,6 +54,8 @@ healthcare-backend/
 ├── manage.py
 ├── requirements.txt
 └── .env # Environment variables
+
+```
 
 ---
 
